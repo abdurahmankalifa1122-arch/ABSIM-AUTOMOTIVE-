@@ -1,0 +1,6 @@
+{
+  "name": "ABSIM AUTOMOTIVE — Professional Workshop & Service Center",
+  "description": "ABSIM AUTOMOTIVE provides professional automotive care, precision tyre changing, wheel balancing, computerized wheel alignment, vehicle inspection, and car laundry in Addis Ababa, Ethiopia. Working Hard, Serving Well.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
